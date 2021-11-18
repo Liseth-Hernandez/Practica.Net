@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\CalculadoraP\CalculadoraP\bin\Debug\CalculadoraP.exe.config
+C:\Users\Alumno\source\repos\CalculadoraP\CalculadoraP\bin\Debug\CalculadoraP.exe
+C:\Users\Alumno\source\repos\CalculadoraP\CalculadoraP\bin\Debug\CalculadoraP.pdb
+C:\Users\Alumno\source\repos\CalculadoraP\CalculadoraP\obj\Debug\CalculadoraP.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\CalculadoraP\CalculadoraP\obj\Debug\CalculadoraP.Form1.resources
+C:\Users\Alumno\source\repos\CalculadoraP\CalculadoraP\obj\Debug\CalculadoraP.Properties.Resources.resources
+C:\Users\Alumno\source\repos\CalculadoraP\CalculadoraP\obj\Debug\CalculadoraP.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\CalculadoraP\CalculadoraP\obj\Debug\CalculadoraP.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\CalculadoraP\CalculadoraP\obj\Debug\CalculadoraP.exe
+C:\Users\Alumno\source\repos\CalculadoraP\CalculadoraP\obj\Debug\CalculadoraP.pdb
